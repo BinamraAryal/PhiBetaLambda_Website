@@ -1,13 +1,13 @@
 # Environmental Awareness Website
 This website is dedicated to raising awareness about environmental issues, aiming to educate visitors on the significance of ecosystems, human influences, and conservation practices.
 # Featured Pages
-## - Home: 
+## Home: 
 Introduces fundamental environmental concepts and the importance of sustaining our ecosystems.
-## - EcoSystems:
+## EcoSystems:
 Explores various ecosystems, their significance, and delicate ecological balances.
-## - Influences:
+## Influences:
  Highlights human activities impacting the environment, shedding light on their effects.
- ## - Sustenance:
+ ## Sustenance:
  Focuses on actionable conservation methods crucial for a healthier planet.
  # Technologies Used
  - HTML
